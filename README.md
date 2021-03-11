@@ -17,6 +17,8 @@ You call down the Thunder? ⚡️ Now reap the whirlwind... 🌪</h2>
 
 ![IMG_1641](https://user-images.githubusercontent.com/77504986/110777192-b3f47a80-8215-11eb-80a4-b30676b0f4a3.JPG)
 
+<br>
+
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
@@ -36,7 +38,7 @@ You call down the Thunder? ⚡️ Now reap the whirlwind... 🌪</h2>
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
+<br />
+<br />
 
-
-
-
+---
