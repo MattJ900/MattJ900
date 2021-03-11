@@ -1,6 +1,7 @@
 # Welcome to Matthew A. John GitHub
+# Hated by many loved by few
 
-* alias:
+## Also known as
 * Matt, 
 * LCpl John Matthew A
 * The Lion of Los Feliz
