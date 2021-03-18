@@ -1,7 +1,3 @@
-![lion](https://user-images.githubusercontent.com/77504986/111591271-76976c00-8784-11eb-901a-497835d77520.gif)
-
-
-
 # 😎 🔥 Welcome to Matthew A. John GitHub 🔥 😎
 <h2> From Dropping Bombs 💣 To Making Moms! 🤰
 You call down the Thunder? ⚡️ Now reap the whirlwind... 🌪</h2>
@@ -43,4 +39,5 @@ You call down the Thunder? ⚡️ Now reap the whirlwind... 🌪</h2>
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
----
+
+![lion](https://user-images.githubusercontent.com/77504986/111591271-76976c00-8784-11eb-901a-497835d77520.gif)
