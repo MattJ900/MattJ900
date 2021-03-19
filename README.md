@@ -14,16 +14,14 @@ You call down the Thunder? ⚡️ Now reap the whirlwind... 🌪</h2>
 * 🦁-- Fortis Fortuna Adiuvat
 
 
-
-![IMG_1641](https://user-images.githubusercontent.com/77504986/110777192-b3f47a80-8215-11eb-80a4-b30676b0f4a3.JPG)
-
-<br>
-
 ![lion](https://user-images.githubusercontent.com/77504986/111591271-76976c00-8784-11eb-901a-497835d77520.gif)
 
 <br>
 
 
+![IMG_1641](https://user-images.githubusercontent.com/77504986/110777192-b3f47a80-8215-11eb-80a4-b30676b0f4a3.JPG)
+
+<br>
 
 
 ### Languages and Tools:
