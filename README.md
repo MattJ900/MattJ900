@@ -2,7 +2,7 @@
 <h2> From Dropping Bombs 💣 To Making Moms! 🤰
 You call down the Thunder? ⚡️ Now reap the whirlwind... 🌪</h2>
 
-<h3 align ="center">Alias:</h3>
+## Alias:
 * Matt, 
 * LCpl John Matthew A,
 * The Lion of Los Feliz
