@@ -1,10 +1,10 @@
 <h1 align ="center">😎 🔥Matthew A. John GitHub😎 🔥</h1>
-<h2> MERN Stack Junior Developer in Training</h2>
+<h2> MERN Stack Junior Web Developer/h2>
 
 
 ## Occupation:
 
-* 🧑‍💻-- UCLA Extenstion Full-Stack Developer Student
+* 🧑‍💻-- UCLA Extenstion MERN Stack Developer
 * 🎖-- USMC Forward Observer @ 3D ANGLICO 2ND BDE
 * 🦁-- Fortis Fortuna Adiuvat
 
