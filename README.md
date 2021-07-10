@@ -1,5 +1,5 @@
 <h1 align ="center">😎 🔥Matthew A. John GitHub😎 🔥</h1>
-<h2> MERN Stack Junior Web Developer/h2>
+<h2> MERN Stack Junior Web Developer</h2>
 
 
 ## Occupation:
