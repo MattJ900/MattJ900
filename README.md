@@ -1,11 +1,6 @@
 <h1 align ="center">😎 🔥Matthew A. John GitHub😎 🔥</h1>
-<h2> From Dropping Bombs 💣 To Making Moms! 🤰
-You call down the Thunder? ⚡️ Now reap the whirlwind... 🌪</h2>
+<h2> MERN Stack Junior Developer in Training 🌪</h2>
 
-## Alias:
-* Matt, 
-* LCpl John Matthew A,
-* The Lion of Los Feliz
 
 ## Occupation:
 
